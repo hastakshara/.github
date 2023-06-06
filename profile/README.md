@@ -27,7 +27,9 @@ We kindly request that you review each of them before you start working on the r
   - LinkedIn: https://www.linkedin.com/company/hastakshara
   - Twitter: https://www.twitter.com/hastakshara_in
   - Mastodon: https://www.mastodon.social/@hastakshara
-  - Kooapp: https://www.kooapp.com/profile/hastakshara
+  - Koo: https://www.kooapp.com/profile/hastakshara
+
+> Note: We are only on above mentioned social platforms, and it is updated every minute.
 
 #### Logo:
 
