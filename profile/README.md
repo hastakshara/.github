@@ -4,7 +4,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/hastakshara/.github/assets/68323012/cd6842e6-b4b2-4120-9f5b-2feb27a3a894">
 </picture>
 
-### 🙋‍♀️ Introduction
+### 👋 Introduction
 
 We are open-source electronic signing platform. In fact, we’ve been doing this since April, 2023. 
 
